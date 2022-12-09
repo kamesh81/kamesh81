@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kamesh81
-- 👀 I’m interested in Engineeing Efficiency 
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Kamesh
+- 👀 I’m interested in Engineering Tooling, Developer Platform 
+- 🌱 I’m currently learning with my coding buddy chatGPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
