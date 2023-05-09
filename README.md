@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamesh
-- 👀 I’m interested in Engineering Tooling, Developer Platform 
+- 👀 I’m interested in Engineering Tooling, APIs, Integrations and Developer Platform 
 - 🌱 I’m currently learning with my coding buddy chatGPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
